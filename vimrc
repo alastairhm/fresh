@@ -20,6 +20,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'rodjek/vim-puppet'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'https://github.com/hashivim/vim-terraform.git'
+Plugin 'tpope/vim-surround'
 "Plugin 'vim-scripts/indentpython.vim'
 "Plugin 'tmhedberg/SimpylFold'
 
