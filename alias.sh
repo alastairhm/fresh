@@ -1,3 +1,4 @@
+#!/bin/bash
 alias ...='cd ../..'
 alias ..='cd ..'
 alias cat='bat'
@@ -31,3 +32,4 @@ alias ovim='command vim'
 alias tmp='cd ~/tmp;ls -ltr'
 alias vim='nvim'
 alias yl='docker run --rm -ti -v $PWD:/workdir alastairhm/yamllint'
+alias ytdown='docker run --rm -v "$PWD:/mnt" alastairhm/ytdown'
