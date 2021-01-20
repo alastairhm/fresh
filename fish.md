@@ -1,6 +1,7 @@
 # fish shell
 
 * [Fish shell](https://fishshell.com/)
+* [FZF Fuzzy Finder](https://github.com/junegunn/fzf)
 * [Fisher package manager](https://github.com/jorgebucaran/fisher)
     * edc/bass
     * fisherman/get
