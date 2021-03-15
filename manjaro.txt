@@ -1,0 +1,8 @@
+sudo pacman -Syu openbox obconf lxappearance tint2 compton rofi nitrogen git vim base-devel brave-browser alacritty ack pcmanfm termite
+
+tint2 &
+compton &
+nitrogen --restore &
+rofi -show run &
+
+https://menumaker.sourceforge.net
