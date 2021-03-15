@@ -5,4 +5,4 @@ compton &
 nitrogen --restore &
 rofi -show run &
 
-https://menumaker.sourceforge.net
+https://sourceforge.net/projects/menumaker/files/latest/download
